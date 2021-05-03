@@ -6,5 +6,5 @@ More details: https://www.behance.net/gallery/117322413/-Fish-Lens
 Here are some picture from project.  
 ![image](https://github.com/YK0824/Android-Project-Vision-Process/blob/main/1.PNG)  
 ![image](https://github.com/YK0824/Android-Project-Vision-Process/blob/main/2.PNG)  
-![image](https://github.com/YK0824/Android-Project-Vision-Process/blob/main/3.PNG)  
-![image](https://github.com/YK0824/Android-Project-Vision-Process/blob/main/4.PNG)  
+![image](https://github.com/YK0824/Android-Project-Vision-Process/blob/main/3.png)  
+![image](https://github.com/YK0824/Android-Project-Vision-Process/blob/main/4.png)  
